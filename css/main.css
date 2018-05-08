@@ -1,0 +1,718 @@
+
+body{
+    font-family: Roboto, Helvetica, sans-serif;
+    background-color: #FFF;
+    margin:5%;
+    margin-top: 2%;
+}
+
+
+
+.container{
+	width: 100%;
+	max-width: 1280px;
+	overflow: hidden;
+}
+
+
+
+.logo-image {
+    width: 15%;
+    height: auto;
+    float: left;
+    margin-bottom: 2%;
+}
+
+a{
+	text-decoration: none;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 15px;
+	text-align: center;
+	color: #52929D;
+
+}
+
+nav a:hover{
+	background-color: #55B1C2;
+	color: #fff;
+}
+
+.linea-vertical0{
+    position: fixed;
+
+    width: 1.5px;
+    height: 4%;
+}
+
+.header{
+    padding-top: 5%;
+    text-align:right;
+
+}
+
+.linea-horizontal0{
+    width: 80%;
+    height: 1.5px;
+    margin-top: .8%;
+    background-color: #55B1C2;
+    float: right;
+
+}
+
+h1{
+	font-size: 36px;
+	color: #55B1C2;
+}
+
+.titulo-principal{
+    text-align: left;
+}
+
+h3{
+	font-size: 30px;
+	color: #55B1C2;
+}
+
+h4{
+    font-size: 16px;
+    color: #55B1C2;
+}
+
+h5{
+    font-size: 16px;
+    color: #55B1C2;
+}
+
+p{
+	text-align:justify;
+	font-size: 14px;
+	color: #52929D;
+}
+
+.main-image {
+    display: block;
+    width: 100%;
+    height: 300px;
+    background-color: #52929D;
+    background-image: url(../images/3-filtro.jpg);
+    background-size: cover;
+    background-position: center;
+    clear: both;
+
+}
+
+.servicios{
+    width: 100%;
+    background-color: #55B1C2;
+    color: #fff;
+    padding: 15px;
+    margin: 0;
+    margin-top: 2%;
+    clear: both;
+}
+
+.contacto{
+    width: 100%;
+    background-color: #55B1C2;
+    color: #fff;
+    padding: 15px;
+    margin: 0;
+}
+
+.departamento{
+    width: 100%;
+    background-color: #55B1C2;
+    color: #fff;
+    padding: 15px;
+    margin: 0;
+    clear: both;
+}
+
+.sectionA0{
+	width: 60%;
+	float: left;
+	text-align: justify;
+	padding: 20px;
+	box-sizing: border-box;
+	background-color: #fff;
+}
+
+.sectionA1{
+	width: 40%;
+	float: left;
+	text-align: center;
+	padding: 20px;
+	box-sizing: border-box;
+	background-color: #fff;
+    padding-top: 7%;
+}
+
+
+.sectionA2{
+	width: 60%;
+	float: left;
+	text-align: justify;
+	padding: 20px;
+	box-sizing: border-box;
+	background-color: #fff;
+    padding-top: 0;
+}
+
+.button{
+    background-color: #52929D;
+    font-size: 36px;
+    color: #fff;
+    border-style: none;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+
+.sectionA3{
+	width: 40%;
+	float: left;
+	text-align: justify;
+	padding: 20px;
+	box-sizing: border-box;
+	background-color: #fff;
+    padding-top: 0;
+}
+
+.etica{
+    margin:0;
+}
+
+.compromiso{
+    margin: 0;
+}
+
+.sectionB{
+	width: 100%;
+	clear: both;
+	text-align:justify;
+	padding: 20px;
+	box-sizing: border-box;
+	background-color: #fff;
+}
+
+
+.orientacion{
+    padding-bottom: 1.5%;
+}
+
+.linea-horizontal1{
+    width: 60%;
+    height: 1.5px;
+    background-color: #55B1C2;
+    float: left;
+
+}
+
+.terapia{
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+
+.linea-horizontal2{
+    width: 60%;
+    height: 1.5px;
+    background-color: #55B1C2;
+    float: left;
+
+}
+
+.evaluacion{
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+
+.linea-horizontal3{
+    width: 60%;
+    height: 1.5px;
+    background-color: #55B1C2;
+    float: left;
+
+}
+
+.consultoria{
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+
+.linea-horizontal4{
+    width: 60%;
+    height: 1.5px;
+    background-color: #55B1C2;
+    float: left;
+
+}
+
+.promocion{
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+
+.linea-horizontal5{
+    width:60%;
+    height: 1.5px;
+    background-color: #55B1C2;
+    float: left;
+
+}
+
+.programas{
+    padding-bottom: 3%;
+}
+
+.sectionC{
+	width: 100%;
+	clear: both;
+	text-align:justify;
+	padding: 20px;
+	box-sizing: border-box;
+	background-color: #fff;
+}
+
+
+.recepcion{
+    padding-bottom: 1.5%;
+}
+
+.linea-horizontal6{
+    width:60%;
+    height: 1.5px;
+    background-color: #55B1C2;
+    float: left;
+
+}
+
+.horario{
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+
+.linea-horizontal7{
+    width:60%;
+    height: 1.5px;
+    background-color: #55B1C2;
+    float: left;
+
+}
+
+.ubicacion{
+    width: 60%;
+    float: left;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+
+.como-llegar{
+    width: 40%;
+    margin-top: 2%;
+    text-align: center;
+    float: left;
+}
+
+.linea-horizontal9{
+    width:60%;
+    height: 1.5px;
+    background-color: #55B1C2;
+    float: left;
+
+}
+
+.costo{
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    clear: both;
+}
+
+
+.sectionD{
+	width: 100%;
+	clear: both;
+	background-color: #fff;
+}
+
+
+.galeria {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0;
+    padding-top: 5%;
+}
+
+.galeria li {
+    margin: 0;
+}
+
+.galeria img {
+    width: 272px; /* Original: 4898px;*/
+    height: 181px; /* Original: 3265px; */
+}
+
+/*Estilos del modal*/
+
+.modal {
+    display: none;
+}
+
+.modal:target {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.imagen {
+    width: 100%;
+    height: 50%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagen a {
+    color: #fff;
+    font-size: 80px;
+    text-decoration: none;
+    margin: 0 10px;
+    margin-top: 50%;
+}
+
+.imagen a:nth-child(2) {
+    margin: 0;
+    height: 100%;
+    flex-shrink: 2;
+}
+
+.imagen img {
+    width: 1000px;
+    height: relative;
+    max-width: 100%;
+    border: 4px solid #fff;
+    box-sizing: border-box;
+}
+
+
+
+@media screen and (max-width: 1280px){
+    .sectionA1{
+        padding-top: 13%;
+    }
+
+    .linea-horizontal0{
+        width: 80%;
+        height: 1.5px;
+    }
+}
+@media screen and (max-width: 800px){
+
+    .logo-image{
+        width: 25%;
+        height: auto;
+        margin-left: 42%;
+    }
+
+    .linea-horizontal9{
+    width:100%;
+    height: 1.5px;
+    background-color: #55B1C2;
+    float: left;
+
+}
+
+.linea-horizontal8{
+    width:100%;
+    height: 1.5px;
+    background-color: #55B1C2;
+    float: left;
+
+}
+        .header{
+        width: 100%;
+        text-align: center;
+        margin-bottom: -1%;
+        clear: both;
+    }
+
+
+        .linea-horizontal0{
+    width: 100%;
+    margin-top: 2.5%;
+    height: 1.5px;
+    background-color: #55B1C2;
+    }
+
+        .main-image{
+            margin-top: 4%;
+        }
+
+        .ubicacion{
+            width: 100%;
+        }
+
+
+
+        .como-llegar{
+            width: 100%;
+            margin-bottom: 6%;
+            margin-top: 0;
+        }
+
+        .linea-horizontal7{
+    width:100%;
+    height: 1.5px;
+    background-color: #55B1C2;
+    float: left;
+
+}
+
+.linea-horizontal6{
+    width:100%;
+    height: 1.5px;
+    background-color: #55B1C2;
+    float: left;
+
+}
+
+.linea-horizontal5{
+    width:100%;
+    height: 1.5px;
+    background-color: #55B1C2;
+    float: left;
+
+}
+
+.linea-horizontal4{
+    width:100%;
+    height: 1.5px;
+    background-color: #55B1C2;
+    float: left;
+
+}
+
+.linea-horizontal3{
+    width:100%;
+    height: 1.5px;
+    background-color: #55B1C2;
+    float: left;
+
+}
+
+.linea-horizontal2{
+    width:100%;
+    height: 1.5px;
+    background-color: #55B1C2;
+    float: left;
+
+}
+
+.linea-horizontal1{
+    width:100%;
+    height: 1.5px;
+    background-color: #55B1C2;
+    float: left;
+
+}
+
+.linea-horizontal3{
+    width:100%;
+    height: 1.5px;
+    background-color: #55B1C2;
+    float: left;
+
+}
+    .sectionA0{
+    	width: 100%
+    }
+	.sectionA1{
+		width: 100%;
+        padding-top: 0;
+	}
+	.sectionA2{
+		width: 100%;
+	}
+	.sectionA3{
+		width: 100%;
+	}
+}
+
+/*
+GALERIA
+*/
+
+.galeria {
+    width: 90%;
+    margin: auto;
+    list-style: none;
+    padding: 20px;
+    box-sizing: border-box;
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+.galeria img {
+    width: 180px;
+    height: auto;
+}
+
+/*Estilos del modal*/
+
+.modal {
+    display: none;
+}
+
+.modal:target {
+    
+    display: block;
+    position: fixed;
+    background: rgba(0,0,0,0.8);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.imagen {
+    width: 100%;
+    height: 50%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagen a {
+    color: #fff;
+    font-size: 40px;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.imagen a:nth-child(2) {
+    margin: 0;
+    height: 100%;
+    flex-shrink: 2;
+}
+
+.imagen img {
+    width: 70%;
+    height: auto;
+    max-width: 100%;
+    border: 7px solid #fff;
+    box-sizing: border-box;
+    margin-top: 5%;
+}
+
+.cerrar {
+    display: block;
+    background: #fff;
+    width: 25px;
+    height: 25px;
+    margin: 15px;
+    margin-bottom: 10%;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    color: #000;
+    padding: 5px;
+    border-radius: 50%;
+    line-height: 25px;
+    color: #52929D;
+}
+
+/* MEDIA */
+@media screen and (max-width: 600px){
+
+	.header{
+		width: 100%;
+		text-align: center;
+		clear: both;
+		margin-bottom: 4%;
+	}
+
+
+    .modal{
+
+    }
+    .sectionA0{
+    	width: 100%
+    }
+	.sectionA1{
+		width: 100%;
+
+	}
+	.sectionA2{
+		width: 100%;
+	}
+	.sectionA3{
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 430px){
+
+    .galeria img{
+        width: 45px;
+        height: auto;
+    }
+
+    .logo-image{
+        width: 50%;
+        height: auto;
+        margin-left: 25%;
+    }
+
+    .header{
+         width: 100%;
+        margin-bottom: 4%;
+        text-align: center;
+        font-size: x-large;
+    }
+
+    .inicio1{
+        clear: both;
+        float: left;
+        margin-left: 40%;
+    }
+
+    .servicios1{
+        clear: both;
+        text-align: center;
+        float: left;
+        margin-left: 35%;
+    }
+    .contacto1{
+        clear: both;
+        float: left;
+        margin-left: 35%;
+    }
+    .departamento1{
+        clear: both;
+        float: left;
+        margin-left: 25%;
+    }
+
+
+}
+
+.futerxd{
+    width: 100%;
+    height: 55px;
+    background-color: #52929D;
+    clear: both;
+}
